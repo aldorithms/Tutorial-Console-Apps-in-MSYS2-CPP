@@ -1,1 +1,1 @@
-# Tutorial-Console-Apps-in-MSYS2-CPP
+# Tutorial: Console Applications in C++ MSYS2
